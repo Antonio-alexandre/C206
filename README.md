@@ -1,2 +1,2 @@
 # C206
-POO - Inatel
+Repositório destinado à matéria de POO - Inatel

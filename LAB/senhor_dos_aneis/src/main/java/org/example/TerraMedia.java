@@ -1,6 +1,5 @@
 package org.example;
 
-
 public class TerraMedia {
     private Habitante herois[] = new Habitante[10];
 
